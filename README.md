@@ -1,0 +1,2 @@
+# PovertyLedMigrationNuapada
+This is a study looking into the causes of seasonal mass migration of poor people from district of Nuapada in Odisha state of India in 2007. The causes remain relevant even today. Massive return of the migrants from India's urban centers during current COVID-19 crisis forces us to have a relook and rethink on strategies which can mitigate poverty led push factors, and leave the poor with a choice to migrate or not.
